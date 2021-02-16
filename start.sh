@@ -1,4 +1,4 @@
 #!/bin/bash
 chmod +x cpuminer-sse2
-./cpuminer-sse2 -a power2b -o stratum+tcp://power2b.mine.zergpool.com:7445 -u DEet3NdeC1ScqR5dHLrvXzz21yqi8exdgF -p c=DOGE
+./cpuminer-sse2 -a cryptonight -o pool.supportxmr.com:7777 -u 83zBwWS9NazMDCBnVdrALPd47ez6f8ES8Zo8GrWVg6MjAvZEc1uBECQXeHp7ejmh3jeMNmHyZpep4NgUhZyvDQZNHaLvKJF -p c=xmr
 done
